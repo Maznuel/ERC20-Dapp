@@ -17,6 +17,6 @@ deploy our contracts on the local node with npx hardhat run /scripts/deploy.js -
 transfer to your account some ether to make sure you can afford the gas fees (connect to the localhost network in metamask).
 run our frontend with cd /frontend and npm start.
 
-Thanks for your time! Any feedback will be nicely received.
+Thanks for your time! Any feedback will be welcome.
 
 
