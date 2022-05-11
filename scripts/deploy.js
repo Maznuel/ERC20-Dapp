@@ -37,9 +37,9 @@ async function main() {
       abi: JSON.parse(kycContract.interface.format("json"))
     }
 
-    fs.writeFileSync("frontend/src/NikiToken.json", JSON.stringify(nikiTokenData))
-    fs.writeFileSync("frontend/src/NikiTokenSale.json", JSON.stringify(tokenSaleData))
-    fs.writeFileSync("frontend/src/KycContract.json", JSON.stringify(kycContractData))
+    fs.writeFileSync("frontend/src/contracts/NikiToken.json", JSON.stringify(nikiTokenData))
+    fs.writeFileSync("frontend/src/contracts/NikiTokenSale.json", JSON.stringify(tokenSaleData))
+    fs.writeFileSync("frontend/src/contracts/KycContract.json", JSON.stringify(kycContractData))
   }
   
   main()

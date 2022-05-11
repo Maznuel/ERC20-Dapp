@@ -1,8 +1,8 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "C:\\Users\\Manuel\\Desktop\\HardHat\\contracts\\Crowdsale.sol": {
-      "lastModificationDate": 1651539341651,
+    "C:\\Users\\Manuel\\Desktop\\HardHat ERC20\\contracts\\Crowdsale.sol": {
+      "lastModificationDate": 1651757791312,
       "contentHash": "9449918909e92a742e64ec398fcd024d",
       "sourceName": "contracts/Crowdsale.sol",
       "solcConfig": {
@@ -42,8 +42,8 @@
         "Crowdsale"
       ]
     },
-    "C:\\Users\\Manuel\\Desktop\\HardHat\\node_modules\\@openzeppelin\\contracts\\security\\ReentrancyGuard.sol": {
-      "lastModificationDate": 1651437248349,
+    "C:\\Users\\Manuel\\Desktop\\HardHat ERC20\\node_modules\\@openzeppelin\\contracts\\security\\ReentrancyGuard.sol": {
+      "lastModificationDate": 1651759755921,
       "contentHash": "92f9448b23a90ea3bb932ee55cc3ccce",
       "sourceName": "@openzeppelin/contracts/security/ReentrancyGuard.sol",
       "solcConfig": {
@@ -77,8 +77,8 @@
         "ReentrancyGuard"
       ]
     },
-    "C:\\Users\\Manuel\\Desktop\\HardHat\\node_modules\\@openzeppelin\\contracts\\utils\\Context.sol": {
-      "lastModificationDate": 1651437247254,
+    "C:\\Users\\Manuel\\Desktop\\HardHat ERC20\\node_modules\\@openzeppelin\\contracts\\utils\\Context.sol": {
+      "lastModificationDate": 1651759758295,
       "contentHash": "5f2c5c4b6af2dd4551027144797bc8be",
       "sourceName": "@openzeppelin/contracts/utils/Context.sol",
       "solcConfig": {
@@ -112,8 +112,8 @@
         "Context"
       ]
     },
-    "C:\\Users\\Manuel\\Desktop\\HardHat\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\IERC20.sol": {
-      "lastModificationDate": 1651437247998,
+    "C:\\Users\\Manuel\\Desktop\\HardHat ERC20\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\IERC20.sol": {
+      "lastModificationDate": 1651759756268,
       "contentHash": "302d9755e46bc69d7058b0cbe7185e37",
       "sourceName": "@openzeppelin/contracts/token/ERC20/IERC20.sol",
       "solcConfig": {
@@ -147,8 +147,8 @@
         "IERC20"
       ]
     },
-    "C:\\Users\\Manuel\\Desktop\\HardHat\\node_modules\\@openzeppelin\\contracts\\utils\\math\\SafeMath.sol": {
-      "lastModificationDate": 1651437248363,
+    "C:\\Users\\Manuel\\Desktop\\HardHat ERC20\\node_modules\\@openzeppelin\\contracts\\utils\\math\\SafeMath.sol": {
+      "lastModificationDate": 1651759759222,
       "contentHash": "a6a9d6c1f662e922b82c1ba4d81cdd48",
       "sourceName": "@openzeppelin/contracts/utils/math/SafeMath.sol",
       "solcConfig": {
@@ -182,8 +182,8 @@
         "SafeMath"
       ]
     },
-    "C:\\Users\\Manuel\\Desktop\\HardHat\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\utils\\SafeERC20.sol": {
-      "lastModificationDate": 1651437248360,
+    "C:\\Users\\Manuel\\Desktop\\HardHat ERC20\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\utils\\SafeERC20.sol": {
+      "lastModificationDate": 1651759756688,
       "contentHash": "76814c83c32552ed2b521c816b4d801a",
       "sourceName": "@openzeppelin/contracts/token/ERC20/utils/SafeERC20.sol",
       "solcConfig": {
@@ -220,8 +220,8 @@
         "SafeERC20"
       ]
     },
-    "C:\\Users\\Manuel\\Desktop\\HardHat\\node_modules\\@openzeppelin\\contracts\\utils\\Address.sol": {
-      "lastModificationDate": 1651437247231,
+    "C:\\Users\\Manuel\\Desktop\\HardHat ERC20\\node_modules\\@openzeppelin\\contracts\\utils\\Address.sol": {
+      "lastModificationDate": 1651759758282,
       "contentHash": "4cff8b2ea0d958750786b4e3ca308445",
       "sourceName": "@openzeppelin/contracts/utils/Address.sol",
       "solcConfig": {
@@ -255,8 +255,8 @@
         "Address"
       ]
     },
-    "C:\\Users\\Manuel\\Desktop\\HardHat\\contracts\\NikiTokenSale.sol": {
-      "lastModificationDate": 1651539066316,
+    "C:\\Users\\Manuel\\Desktop\\HardHat ERC20\\contracts\\NikiTokenSale.sol": {
+      "lastModificationDate": 1651757791528,
       "contentHash": "5f77545b85ee1002997f24e211cfdd90",
       "sourceName": "contracts/NikiTokenSale.sol",
       "solcConfig": {
@@ -293,8 +293,8 @@
         "NikiTokenSale"
       ]
     },
-    "C:\\Users\\Manuel\\Desktop\\HardHat\\contracts\\KycContract.sol": {
-      "lastModificationDate": 1651539070789,
+    "C:\\Users\\Manuel\\Desktop\\HardHat ERC20\\contracts\\KycContract.sol": {
+      "lastModificationDate": 1651757791366,
       "contentHash": "5f33989299b20006aadb834c9901ddc5",
       "sourceName": "contracts/KycContract.sol",
       "solcConfig": {
@@ -330,8 +330,8 @@
         "KycContract"
       ]
     },
-    "C:\\Users\\Manuel\\Desktop\\HardHat\\node_modules\\@openzeppelin\\contracts\\access\\Ownable.sol": {
-      "lastModificationDate": 1651437248157,
+    "C:\\Users\\Manuel\\Desktop\\HardHat ERC20\\node_modules\\@openzeppelin\\contracts\\access\\Ownable.sol": {
+      "lastModificationDate": 1651759749936,
       "contentHash": "8398972af73b4e9e5ff3b31cad86234f",
       "sourceName": "@openzeppelin/contracts/access/Ownable.sol",
       "solcConfig": {
@@ -367,8 +367,8 @@
         "Ownable"
       ]
     },
-    "C:\\Users\\Manuel\\Desktop\\HardHat\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\ERC20.sol": {
-      "lastModificationDate": 1651437247565,
+    "C:\\Users\\Manuel\\Desktop\\HardHat ERC20\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\ERC20.sol": {
+      "lastModificationDate": 1651759756247,
       "contentHash": "f48de0eaae9544072b8766e2eac528a7",
       "sourceName": "@openzeppelin/contracts/token/ERC20/ERC20.sol",
       "solcConfig": {
@@ -406,8 +406,8 @@
         "ERC20"
       ]
     },
-    "C:\\Users\\Manuel\\Desktop\\HardHat\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\extensions\\IERC20Metadata.sol": {
-      "lastModificationDate": 1651437248002,
+    "C:\\Users\\Manuel\\Desktop\\HardHat ERC20\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\extensions\\IERC20Metadata.sol": {
+      "lastModificationDate": 1651759756623,
       "contentHash": "909ab67fc5c25033fe6cd364f8c056f9",
       "sourceName": "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
       "solcConfig": {
@@ -443,8 +443,8 @@
         "IERC20Metadata"
       ]
     },
-    "C:\\Users\\Manuel\\Desktop\\HardHat\\contracts\\NikiToken.sol": {
-      "lastModificationDate": 1651608074688,
+    "C:\\Users\\Manuel\\Desktop\\HardHat ERC20\\contracts\\NikiToken.sol": {
+      "lastModificationDate": 1651757791419,
       "contentHash": "75b7bf2d755edc9d5bde84b36e408e3f",
       "sourceName": "contracts/NikiToken.sol",
       "solcConfig": {
